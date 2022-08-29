@@ -1,7 +1,7 @@
 ### How to install Docker (Windows Platform)
 1. Login to the machine using privileged account
 2. Download the latest Docker build from:
-: https://download.docker.com/win/edge/Docker%20Desktop%20Installer.exe
+	https://download.docker.com/win/edge/Docker%20Desktop%20Installer.exe
 
 ### How to install Docker (Ubuntu)
 1. Login to the machine using privileged account

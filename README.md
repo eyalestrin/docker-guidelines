@@ -5,7 +5,7 @@
 
 ### How to install Docker (Ubuntu)
 1. Login to the machine using privileged account
-2. Follow the instructions below:
+2. Follow the instructions below:  
 	https://docs.docker.com/install/linux/docker-ce/ubuntu/
 3. Start the Docker Daemon:  
    `sudo service docker start`
